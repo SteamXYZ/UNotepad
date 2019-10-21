@@ -1,5 +1,6 @@
-<updateInfo>
-    <name>test update</name>
-    <version>0.3.7.0</version>
-    <downloadLink></downloadLink>
+<?xml version="1.0" encoding="utf-16"?>
+<updateInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>test update</name>
+  <version>1.3.5.4</version>
+  <downloadLink>https://raw.githubusercontent.com/SteamXYZ/UNotepad/master/LatestVersion.xml</downloadLink>
 </updateInfo>
